@@ -11,14 +11,17 @@
             "id": "4f4932700caffb11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "🌪️ Кагэно Амая Kageno Amaya 陰野 アマヤ.md",
-                "mode": "source",
-                "source": false
+                "file": "❤️ Entsuki Hiizuru.canvas",
+                "viewState": {
+                  "x": -275,
+                  "y": 1310,
+                  "zoom": -2.445939382309184
+                }
               },
-              "icon": "lucide-file",
-              "title": "🌪️ Кагэно Амая Kageno Amaya 陰野 アマヤ"
+              "icon": "lucide-layout-dashboard",
+              "title": "❤️ Entsuki Hiizuru"
             }
           }
         ]
@@ -178,10 +181,10 @@
   },
   "active": "4f4932700caffb11",
   "lastOpenFiles": [
-    "README.md",
-    "Entsuki Hiizuru.canvas",
     "🌪️ Кагэно Амая Kageno Amaya 陰野 アマヤ.md",
     "🕯️Сираока Ной.md",
+    "README.md",
+    "❤️ Entsuki Hiizuru.canvas",
     "Скришоты/Pasted_image_20250514151851 1.png",
     "❤️‍🔥Энцуки.md",
     "Скришоты",
