@@ -11,17 +11,42 @@
             "id": "4f4932700caffb11",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "2ab7e816b0dd4166",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "🌪️ Кагэно Амая.md",
+                "file": "💧Амэ-но Узумэ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌪️ Кагэно Амая"
+              "title": "💧Амэ-но Узумэ"
+            }
+          },
+          {
+            "id": "351cac8c489447eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "👹Райден-но Кагура.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "👹Райден-но Кагура"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌪️ Кагэно Амая.md",
+                "file": "💧Амэ-но Узумэ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 🌪️ Кагэно Амая"
+              "title": "Структура 💧Амэ-но Узумэ"
             }
           },
           {
@@ -177,10 +202,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f4932700caffb11",
+  "active": "2ab7e816b0dd4166",
   "lastOpenFiles": [
-    "README.md",
+    "👹Райден-но Кагура.md",
+    "💧Амэ-но Узумэ.md",
     "🌪️ Кагэно Амая.md",
+    "README.md",
     "🕯️Сираока Ной.md",
     "🏙️Кагамихара (鏡原).md",
     "❤️ Entsuki Hiizuru.canvas",
