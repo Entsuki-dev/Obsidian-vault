@@ -11,10 +11,14 @@
             "id": "4f4932700caffb11",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -220,12 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура README"
             }
           },
           {
@@ -258,6 +263,7 @@
   },
   "active": "4f4932700caffb11",
   "lastOpenFiles": [
+    "City8.jpg",
     "🌸Ватанабэ Каоруко.md",
     "Watanabe Kaoruko.jpg",
     "❤️‍🔥Энцуки.md",
