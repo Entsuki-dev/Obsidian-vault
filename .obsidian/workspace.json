@@ -11,20 +11,24 @@
             "id": "4f4932700caffb11",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "❤️ Entsuki Hiizuru.canvas",
-                "viewState": {
-                  "x": -275,
-                  "y": 1310,
-                  "zoom": -2.445939382309184
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "❤️ Entsuki Hiizuru"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "f4eac41e7f8347b9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +156,7 @@
             }
           },
           {
-            "id": "b855c1d6ca238273",
+            "id": "40bc80caea5d7950",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -166,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,12 +183,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f4932700caffb11",
+  "active": "f4eac41e7f8347b9",
   "lastOpenFiles": [
-    "🌪️ Кагэно Амая Kageno Amaya 陰野 アマヤ.md",
-    "🕯️Сираока Ной.md",
+    "🌪️ Кагэно Амая.md",
     "README.md",
+    "⚡🔥🌙 Tsukiko Hizuru (月孤 火鶴).md",
+    "🕯️Сираока Ной.md",
     "❤️ Entsuki Hiizuru.canvas",
+    "🎀 Энцуно Хиика.md",
     "Скришоты/Pasted_image_20250514151851 1.png",
     "❤️‍🔥Энцуки.md",
     "Скришоты",
