@@ -1,4 +1,5 @@
-![City8 1](https://github.com/user-attachments/assets/d819ebb8-b33c-448e-ae95-c31ea8268b68)
+![City8](https://github.com/user-attachments/assets/01694461-23af-40b2-8cf2-e0ba39efdcae)
+
 # **Краткое описание вселенной "Кагамихара"**
 **Жанр:** Фэнтези-антураж с элементами киберпанка, магического реализма и психологической драмы.
 
