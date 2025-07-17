@@ -1,4 +1,5 @@
 {
-  "cssTheme": "Blue Topaz",
-  "baseFontSizeAction": false
+  "cssTheme": "GitHub Theme",
+  "baseFontSizeAction": false,
+  "accentColor": "#00c742"
 }
