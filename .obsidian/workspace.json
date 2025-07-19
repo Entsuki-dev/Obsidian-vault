@@ -11,17 +11,10 @@
             "id": "4f4932700caffb11",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "❤️ Entsuki Hiizuru.canvas",
-                "viewState": {
-                  "x": 2361.7651027938346,
-                  "y": 2082.3717486879327,
-                  "zoom": -1.2459259836359207
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "❤️ Entsuki Hiizuru"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -182,8 +175,9 @@
   },
   "active": "4f4932700caffb11",
   "lastOpenFiles": [
-    "Pasted image 20250718215424.png",
     "❤️ Entsuki Hiizuru.canvas",
+    "Pasted image 20250718215424.png",
+    "Скришоты/Entsuki1.2-model. Scrinshoot.png",
     "Pasted image 20250718214435.png",
     "Pasted image 20250718214817.png",
     "Entsuki-model. Scrinshoot.png",
@@ -192,7 +186,6 @@
     "Скришоты/Pasted_image_20250515100753.png",
     "Скришоты/Pasted_image_20250515100906.png",
     "Скришоты/Pasted_image_20250514151851 1.png",
-    "Скришоты/Pasted_image_20250514155207.png",
     "🕯️Сираока Ной.md",
     "🎀 Энцуно Хиика.md",
     "🏜️Анн (готическая томбой-богиня Древнего Египта).md",
