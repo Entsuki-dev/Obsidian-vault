@@ -11,10 +11,17 @@
             "id": "4f4932700caffb11",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "canvas",
+              "state": {
+                "file": "❤️ Entsuki Hiizuru.canvas",
+                "viewState": {
+                  "x": 1748.7302216169019,
+                  "y": 2024.3227894533939,
+                  "zoom": -0.9125926503025874
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "❤️ Entsuki Hiizuru"
             }
           }
         ]
@@ -175,9 +182,9 @@
   },
   "active": "4f4932700caffb11",
   "lastOpenFiles": [
+    "Скришоты/Entsuki1.2-model. Scrinshoot.png",
     "❤️ Entsuki Hiizuru.canvas",
     "Pasted image 20250718215424.png",
-    "Скришоты/Entsuki1.2-model. Scrinshoot.png",
     "Pasted image 20250718214435.png",
     "Pasted image 20250718214817.png",
     "Entsuki-model. Scrinshoot.png",
