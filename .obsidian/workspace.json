@@ -11,20 +11,28 @@
             "id": "4f4932700caffb11",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "3f24c3eced0c2f2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "❤️ Entsuki Hiizuru.canvas",
-                "viewState": {
-                  "x": 1748.7302216169019,
-                  "y": 2024.3227894533939,
-                  "zoom": -0.9125926503025874
-                }
+                "file": "🌸🌙🔥💧Мидзуки Ран (水月 蘭).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "❤️ Entsuki Hiizuru"
+              "icon": "lucide-file",
+              "title": "🌸🌙🔥💧Мидзуки Ран (水月 蘭)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,10 +188,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f4932700caffb11",
+  "active": "3f24c3eced0c2f2f",
   "lastOpenFiles": [
-    "Скришоты/Entsuki1.2-model. Scrinshoot.png",
+    "🌸🌙🔥💧Мидзуки Ран (水月 蘭).md",
+    "💧Амэ-но Узумэ (Слизень).md",
     "❤️ Entsuki Hiizuru.canvas",
+    "Скришоты/Entsuki1.2-model. Scrinshoot.png",
     "Pasted image 20250718215424.png",
     "Pasted image 20250718214435.png",
     "Pasted image 20250718214817.png",
@@ -206,7 +216,6 @@
     "😈Люциэль Вейн (Суккуб).md",
     "👹Райден-но Кагура (Они).md",
     "🧝Араширо Юки (лунный эльф).md",
-    "💧Амэ-но Узумэ (Слизень).md",
     "🏙️Кагамихара (鏡原).md",
     "Скришоты",
     "Энцуки (焔月) – Огненная луна.md",
